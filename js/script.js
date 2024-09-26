@@ -32,7 +32,7 @@ function displayEmployees(employees) {
                                     <div class="card__section card__customer-email">
                                         <div class="card__section-header">
                                             <div class="card__section-header_body">    
-                                                <img src="icons/email.svg" alt="">
+                                                <img src="icons/email.png" alt="">
                                                 Email
                                             </div>
                                         </div>

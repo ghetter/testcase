@@ -29,10 +29,10 @@ function displayEmployees(employees) {
                                         </div>
                                     </div>
                                     
-                                    <div class="card__section card__customer-address">
+                                    <div class="card__section card__customer-email">
                                         <div class="card__section-header">
                                             <div class="card__section-header_body">    
-                                                <img src="icons/email.png" alt="">
+                                                <img src="icons/email.svg" alt="">
                                                 Email
                                             </div>
                                         </div>
@@ -43,7 +43,7 @@ function displayEmployees(employees) {
                                     <div class="card__section card__customer-address">
                                         <div class="card__section-header">
                                             <div class="card__section-header_body">
-                                                <img src="icons/address.png" alt="">
+                                                <img src="icons/address.svg" alt="">
                                                 Адрес
                                             </div>
                                         </div>

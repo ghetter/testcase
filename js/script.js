@@ -20,7 +20,7 @@ function displayEmployees(employees) {
                                     <div class="card__section card__customer-phone">
                                         <div class="card__section-header">
                                             <div class="card__section-header_body">
-                                                <img src="icons/phone.svg" alt="">
+                                                <img src="icons/phone.png" alt="">
                                                 Телефон
                                             </div>
                                         </div>
@@ -43,7 +43,7 @@ function displayEmployees(employees) {
                                     <div class="card__section card__customer-address">
                                         <div class="card__section-header">
                                             <div class="card__section-header_body">
-                                                <img src="icons/address.svg" alt="">
+                                                <img src="icons/address.png" alt="">
                                                 Адрес
                                             </div>
                                         </div>

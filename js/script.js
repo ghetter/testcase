@@ -65,10 +65,10 @@ function filterEmployees(employees) {
         const searchTerm = searchInput.value.toLowerCase();
         
         const filteredEmployees = employees.filter(employee =>
-            (employee.name && employee.name.toLowerCase().includes(searchTerm)) ||
+            (employee.name && employee.name.toLowerCase().includes(searchTerm)) /* ||
             (employee.email && employee.email.toLowerCase().includes(searchTerm)) ||
             (employee.phoneNumber && employee.phoneNumber.toLowerCase().includes(searchTerm)) ||
-            (employee.address && employee.address.toLowerCase().includes(searchTerm))
+            (employee.address && employee.address.toLowerCase().includes(searchTerm)) */
         );
         
         displayEmployees(filteredEmployees);
